@@ -1,0 +1,23 @@
+{
+  "name": "auth-service",
+  "version": "1.0.0",
+  "description": "Authentication microservice using tokens.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewlarry/node-auth-service.git"
+  },
+  "author": "Andrew Fuselier",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andrewlarry/node-auth-service/issues"
+  },
+  "homepage": "https://github.com/andrewlarry/node-auth-service#readme",
+  "dependencies": {
+    "express": "4.16.3"
+  },
+  "devDependencies": {}
+}
