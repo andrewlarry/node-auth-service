@@ -2,9 +2,10 @@
   "name": "auth-service",
   "version": "1.0.0",
   "description": "Authentication microservice using tokens.",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "NODE_ENV=production node server.js",
+    "dev": "NODE_ENV=development node server.js"
   },
   "repository": {
     "type": "git",
