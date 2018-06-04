@@ -1,2 +1,2 @@
 # auth-service
-Authentication microservice
+Authentication microservice.
