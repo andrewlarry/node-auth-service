@@ -18,7 +18,9 @@
   },
   "homepage": "https://github.com/andrewlarry/node-auth-service#readme",
   "dependencies": {
-    "express": "4.16.3"
+    "dotenv": "6.0.0",
+    "express": "4.16.3",
+    "pg": "7.4.3"
   },
   "devDependencies": {}
 }
